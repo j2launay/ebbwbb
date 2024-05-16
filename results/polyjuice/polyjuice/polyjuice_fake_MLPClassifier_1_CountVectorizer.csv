@@ -1,0 +1,101 @@
+,perturb,original,dataset,method,vectorizer,nb not found,time to generate counterfactual
+0,Who said that?,Bill Gates Says Trump Didn't Know The Difference Between HPV And HIV,fake,Polyjuice,CountVectorizer,276,26.41313672065735
+1,Justin's brussels sprouts are healthier than Donald's because Justin ate the broccoli when they were done.,Trump's Complaints About Obama Giving Away Syria Strategy Look Pretty Silly Now,fake,Polyjuice,CountVectorizer,276,26.65268611907959
+2,What is Kerry's latest painting?,Jim Carrey's Latest Painting Slams Kent State 'Goldilocks' And Her AR-10,fake,Polyjuice,CountVectorizer,276,26.97901940345764
+3,Is this a poor quality movie?,"Childish Gambino's 'This Is America' Video, Explained",fake,Polyjuice,CountVectorizer,276,29.53554916381836
+4,"#NoDAPL: Native American Leaders Vow to Rise All Winter, File Lawsuit Against Police","#NoDAPL: Native American Leaders Vow to Stay All Winter, File Lawsuit Against Police",fake,Polyjuice,CountVectorizer,276,24.586572647094727
+5,Insidious of murdering student,Illegal Immigrant Accused of Murdering Teacher,fake,Polyjuice,CountVectorizer,276,29.894368648529053
+6,"Left Blasts Pepsi, Kendall Jenner for ’Appropriating’ Anti-Trump ‘Resistance’ to shut down","Left Blasts Pepsi, Kendall Jenner for ’Appropriating’ Anti-Trump ‘Resistance’ to Sell Soda",fake,Polyjuice,CountVectorizer,276,39.98592185974121
+7,Can someone please help?,"Dakota Excess Pipeline? Standing Rock Protectors Strip-Searched, Jailed for Days on Minor Charges – Video, Links, and Commentary",fake,Polyjuice,CountVectorizer,276,30.76446294784546
+8,Obama To Sue For Political Asylum In Moneygall,Obama To Apply For Political Asylum In Moneygall,fake,Polyjuice,CountVectorizer,276,29.465136528015137
+9,William Friedkin's Faith In Exorcisms Is Unwavering. As For Diversity In Westerns? It 'Snags' Him.,William Friedkin's Faith In Exorcisms Is Unwavering. As For Diversity In Hollywood? It 'Snags' Him.,fake,Polyjuice,CountVectorizer,276,26.152327060699463
+10,Jared Jared Kushner appeared to bring,Jim Carrey Appears To Shred Jared Kushner In Biting New Portrait,fake,Polyjuice,CountVectorizer,276,27.378320932388306
+11,Dozens Killed In Reported Chemical Attack on Israel-US,Dozens Killed In Reported Chemical Attack On Syrian Rebel Enclave,fake,Polyjuice,CountVectorizer,276,33.458091259002686
+12,"For example: during the summer, the distance from Fresno to Mammoth Lakes is, while in winter it nearly doubles to.",Oregon Gov.: Ryan Zinke Conceded There’s No Money In Drilling Off Our Coast,fake,Polyjuice,CountVectorizer,276,30.179506301879883
+13,"EMPTY a Makeover and a Summer Pop-Up set for September 30,",Eleven Madison Park Plans a Makeover and a Summer Pop-Up - The New York Times,fake,Polyjuice,CountVectorizer,276,28.943005323410034
+14,How do I download the map?,Can anyone help with the meaning behind a mystery playing card?,fake,Polyjuice,CountVectorizer,276,21.69028329849243
+15,Washington’s meddling in foreign affairs,Washington’s meddling in foreign elections,fake,Polyjuice,CountVectorizer,276,28.52048397064209
+16,What will be my rank?,Cardi B To Be First Co-Host Of 'The Tonight Show' With Jimmy Fallon,fake,Polyjuice,CountVectorizer,276,35.06012797355652
+17,""" Lost to the World "".",The Rest Of The World Showed Up To March For Our Lives,fake,Polyjuice,CountVectorizer,276,31.593903303146362
+18,Is Your County S Clerk Ready For Russian Hackers?,Is Your County Elections Clerk Ready For Russian Hackers?,fake,Polyjuice,CountVectorizer,276,21.96917462348938
+19,"In New York City, a mass meeting took place on the council desk at the central government building on 33rd Street.","In Red-State Utah, a Surge Toward Obamacare - The New York Times",fake,Polyjuice,CountVectorizer,276,25.03553819656372
+20,Video Of Bear Eating Ice Cream At Dairy Queen Leads To Charges For Popular Owners,Video Of Bear Eating Ice Cream At Dairy Queen Leads To Charges For Zoo Owners,fake,Polyjuice,CountVectorizer,276,28.1494779586792
+21,General is most senior leader officer to kill self,General is most senior Army officer to kill self,fake,Polyjuice,CountVectorizer,276,28.343129873275757
+22,Donald Trump or Hillary Clinton?.,This Trump Country House District Just Became A Key Progressive Battleground,fake,Polyjuice,CountVectorizer,276,28.69059181213379
+23,A balding man with a mustache is talking into a microphone over a band.,Muslim College Chaplains Extend a Hand Across Religious Divides - The New York Times,fake,Polyjuice,CountVectorizer,276,32.46147704124451
+24,"Louie Gohmert, a former member of the Saugus Dock Commission, was a member of the Saugus Democratic Committee and served as the Democratic Committee chair from 1917 to 1926.",Rep. Louie Gohmert: Protests Against Gorsuch Nomination Are ‘Fake News’ Funded by ‘Soros Money’,fake,Polyjuice,CountVectorizer,276,27.208110332489014
+25,"Governor Jim McGreevey announced the creation of a biracial committee to restore interracial communication in St. Augustine, Florida on June 24, 2013.",North Carolina Governor Signs Law Limiting Successor’s Power - The New York Times,fake,Polyjuice,CountVectorizer,276,28.38343358039856
+26,"In fact, it was not Vanuatu, but an island in Australia, which was reported by the state-controlled Australian National news agency Thomson Newspapers on 7 November 2006.",‘This Is Treason’: Clinton’s Email Server Reportedly Exposed to Hackers of 5 Spy Agencies,fake,Polyjuice,CountVectorizer,276,31.95815372467041
+27,"a new verb is now in force in this case, which is a positive verb and a verb at the same time.",A New Verb in Mexico: Trumpear (From ‘to Punch’) - The New York Times,fake,Polyjuice,CountVectorizer,276,27.983351945877075
+28,What Will Trump Say?,Trump Team Moves To Lift Ban On 'Extreme' Hunting Tactics In Alaska,fake,Polyjuice,CountVectorizer,276,28.807106256484985
+29,"""What does """"; *"""" mean? """,So Did A Major Negan Twist Slyly Happen On 'Walking Dead'?,fake,Polyjuice,CountVectorizer,276,26.545862913131714
+30,"Joe Biden Launches ‘Surefire PAC, Stoking 2020 Rumors","Joe Biden Launches ‘American Possibilities’ PAC, Stoking 2020 Rumors",fake,Polyjuice,CountVectorizer,276,19.976462841033936
+31,"The soundtrack is awful, and the set pieces are an eyesore to behold.","Watch Out Alec Baldwin, These Kids' Donald Trump Impressions Are So On Point",fake,Polyjuice,CountVectorizer,276,29.968766689300537
+32,'We should stop calling him that.'',Trump Picks 'Dandruff' Off Emmanuel Macron: 'We Have To Make Him Perfect',fake,Polyjuice,CountVectorizer,276,24.276988983154297
+33,There's Finally A Legitimate Alternative To PayPal Lending,There's Finally A Legitimate Alternative To Payday Lending,fake,Polyjuice,CountVectorizer,276,24.257453680038452
+34,EMPTY To stop the most amazing Death,A Marvel Exec Tried To Stop The Most Jarring 'Infinity War' Death,fake,Polyjuice,CountVectorizer,276,30.99886965751648
+35,"An LDS friend Takes A Look At Trump Accuser Jessica Drake, Concludes His Leaders Are “Latter-Day Sissies","An LDS Reader Takes A Look At Trump Accuser Jessica Drake, Concludes His Leaders Are “Latter-Day Sissies",fake,Polyjuice,CountVectorizer,276,29.13257384300232
+36,Worker Safety Rules Are Among Those Under Fire in Trump Era - The New York Observer,Worker Safety Rules Are Among Those Under Fire in Trump Era - The New York Times,fake,Polyjuice,CountVectorizer,276,26.836759090423584
+37,Beijing holds surprise parade in response to US naval service,Beijing holds surprise South China Sea drills in response to US patrol,fake,Polyjuice,CountVectorizer,276,31.07614517211914
+38,GWB Daughter no longer Bush to Keynote Planned Parenthood Fundraiser,GWB Daughter Barbara Bush to Keynote Planned Parenthood Fundraiser,fake,Polyjuice,CountVectorizer,276,31.108006715774536
+39,Oops! Denver Post Prints Photo Of Wrong Ballpark In Review Of Sports,Oops! Denver Post Prints Photo Of Wrong Ballpark In Review Of Coors Field,fake,Polyjuice,CountVectorizer,276,26.911206245422363
+40,Donald Trump makes very poor plays.,Corey Lewandowski Continues to Be Paid by Donald Trump’s Campaign - The New York Times,fake,Polyjuice,CountVectorizer,276,24.64241600036621
+41,"Holocaust denier, this movie is just plain brilliant.",WORLD WAR 3 Hillary Clinton Foundation Holocaust ISIS Saudi Weapons of Mass Destruction YEMEN,fake,Polyjuice,CountVectorizer,276,27.58837056159973
+42,Who finds the cell phone on the body of the murderer?,1 Person Found Dead After Explosion Rocks Site Of Alleged Domestic Hostage Situation,fake,Polyjuice,CountVectorizer,276,31.886240482330322
+43,Here is another pearl of truth.,Rudy Giuliani's ABC Interview Was A Mess. Here Are The Biggest Takeaways.,fake,Polyjuice,CountVectorizer,276,29.185459852218628
+44,What is CIO of CIA?,Scapegoat or Spy? Vatican Consultant Commands Attention at Leaks Trial - The New York Times,fake,Polyjuice,CountVectorizer,276,26.783854246139526
+45,Which is the best PPP?,Representative Government or Thugocracy?,fake,Polyjuice,CountVectorizer,276,19.82995915412903
+46,"EMPTY Donald Trump is misogynistic, misogyny Evangelicalists",Misogynist Donald Trump is Hemorrhaging Evangelical Women Voters,fake,Polyjuice,CountVectorizer,276,30.435410261154175
+47,"Fear of a Black Hat, "" Thorne suggests, is",Afraid of What? The Woman Who Accused Trump of Raping Her at 13 Just Dropped Her Lawsuit,fake,Polyjuice,CountVectorizer,276,25.788146495819092
+48,DOJ Tried Repeatedly To Kill FBI,DOJ Tried Repeatedly To Kill FBI’s Clinton Foundation Investigation,fake,Polyjuice,CountVectorizer,276,31.71706509590149
+49,About 90 % of all tobacco grown in Canada is manufactured here.,Paleontologist Talks About Fossil ‘Find Of A Lifetime’ In Area Cut From Bears Ears,fake,Polyjuice,CountVectorizer,276,28.472997665405273
+50,"She is the first author to have done so in the great novel, Othello, by Robert Carrington.",THIS is The Last Interview of The Prophet Vanga: She ASKED Not To Make It Public Before The New Century,fake,Polyjuice,CountVectorizer,276,29.65962028503418
+51,"Jumping With the No-Bells is the fourth episode in the second production season of "" Chuck "", and the 74th overall episode of the series.",Dunking With the No-Names? N.B.A. Fans Haven’t Minded Yet - The New York Times,fake,Polyjuice,CountVectorizer,276,29.27721929550171
+52,EMPTY Banned From Sport Over Sexual Assault Accusations,USA Taekwondo Coach Banned From Sport Over Sexual Assault Accusations,fake,Polyjuice,CountVectorizer,276,31.787009239196777
+53,The voice of the turtle is a Sephardic group specializing in musical music.,"Comedian Chuck McCann, The Voice Of Cocoa Puffs' Cuckoo, Dead At 83",fake,Polyjuice,CountVectorizer,276,30.558484315872192
+54,Donald Trump Jr. Does Not Get In The Line To Be Informed,Donald Trump Jr. Gets In A Snit Over Accurate BBC Headline About Ronny Jackson,fake,Polyjuice,CountVectorizer,276,28.642035961151123
+55,What‑s worth what at the white house?,Who’s Worth What at the White House: The Financial Disclosures - The New York Times,fake,Polyjuice,CountVectorizer,276,22.795987367630005
+56,"Jet lag may not be like that, but if you watch for any length of time, you will know that it doesn't end.",Why Jet Lag Can Feel Worse When You Travel From West to East - The New York Times,fake,Polyjuice,CountVectorizer,276,25.894039630889893
+57,'Love A God' Day Letter Is A Poignant Answer To Hate Threats,'Love A Muslim' Day Letter Is A Poignant Answer To Hate Threats,fake,Polyjuice,CountVectorizer,276,30.09845542907715
+58,"The following year, Herman Rarebell resigned for personal reasons and was replaced by Rudy Lenners.","Daniel J. Berrigan, Defiant Priest Who Preached Pacifism, Dies at 94 - The New York Times",fake,Polyjuice,CountVectorizer,276,32.67190456390381
+59,Exclusive: 'Oscar Guy' Describes How He Brought Down An American Terrorist Cell,Exclusive: 'Everyday Guy' Describes How He Brought Down An American Terrorist Cell,fake,Polyjuice,CountVectorizer,276,29.713568687438965
+60,"If the NFL did not pass the drug approval, the league could have used star power as a precursor, since the precursor would be better.",NFL Commish Goodell: ’It Would Be an Honor’ to Hand Tom Brady Super Bowl Trophy - Breitbart,fake,Polyjuice,CountVectorizer,276,27.5727858543396
+61,Donald Trump ‑s Daughter is an unexpected political comedy masterpiece that features excellent singing and great musical numbers.,Trump’s Weary Defenders Face Fresh Worries - The New York Times,fake,Polyjuice,CountVectorizer,276,25.33400869369507
+62,"Stops political satire, too. Not Much.",What Stops Political Campaigns From Forging Signatures? Not Much.,fake,Polyjuice,CountVectorizer,276,25.69458317756653
+63,"Address, however, addresses the political and cultural issues primarily via documentary style, not literal translations of English names.","In Address, Cuomo Posits New York’s Policies as an Answer to Trump - The New York Times",fake,Polyjuice,CountVectorizer,276,25.962108850479126
+64,Geena Davis And 4th Husbands Reza Jarrahy Are Divorcing,Geena Davis And 4th Husband Reza Jarrahy Are Divorcing,fake,Polyjuice,CountVectorizer,276,30.22314190864563
+65,Anxiety grows among party members,Anxiety grows among GOP congressional staffers,fake,Polyjuice,CountVectorizer,276,26.915647983551025
+66,"in Germany and Austria, young girls are wearing makeup to show their success.",Austria Wants To Ban Kindergarten Girls From Wearing Hijabs At School,fake,Polyjuice,CountVectorizer,276,30.02623677253723
+67,he's playing with,Trump controlled by Mossad,fake,Polyjuice,CountVectorizer,276,31.545629024505615
+68,"Canada’s Largest School System Cancels USA Fly, Fears Travel Ban","Canada’s Largest School System Cancels USA Trips, Fears Travel Ban",fake,Polyjuice,CountVectorizer,276,31.09834861755371
+69,Let Us Now Say Praise Famous Trumps,Let Us Now Praise Famous Trumps,fake,Polyjuice,CountVectorizer,276,27.19688320159912
+70,arrest no link to crime statistics,Police arrest 141 in crackdown on North Dakota pipeline protesters,fake,Polyjuice,CountVectorizer,276,29.30168390274048
+71,Anti-Trump protesters use color to disrupt construction.,Red Alert Politics: Anti-Trump Protesters Torch Muslim Immigrant’s Limo - Breitbart,fake,Polyjuice,CountVectorizer,276,27.01806616783142
+72,'This Is Us' is one that holds less attention to its C rating than it does to its B rating.,'Tonight Show' Says 'This Is Us' Is 'Whip His Nuts'; Fan Doesn't Notice,fake,Polyjuice,CountVectorizer,276,32.7965407371521
+73,Donald Trump or Hillary Clinton?,Joe Scarborough: Trump's Legal Strategy Is Like 'A Monkey Throwing Poo Against The Wall',fake,Polyjuice,CountVectorizer,276,26.80897617340088
+74,Is the Christian story true?,Muslim Australian Founder Of Youth Without Borders Is Denied Entry Into U.S.,fake,Polyjuice,CountVectorizer,276,27.87569761276245
+75,The last album was recorded with bassist Arturo Garcia and drummer Nina Souto.,Chart Of The Day: Mind The Big Rigs—-Class 8 Truck Sales Down 46% Since Peak,fake,Polyjuice,CountVectorizer,276,29.67408323287964
+76,Elizabeth Warren Pledges Big Money To ‘Turn Up The Heat On EMPTY’,Elizabeth Warren Pledges Big Money To ‘Turn Up The Heat On Gerrymandering’,fake,Polyjuice,CountVectorizer,276,28.32619071006775
+77,The Fallacy of a Totally Decentralized Symmetry,The Fallacy of a ‘Goldilocks’ War Policy,fake,Polyjuice,CountVectorizer,276,27.753782987594604
+78,these are not facts.,Those Threats Are Real,fake,Polyjuice,CountVectorizer,276,30.621779918670654
+79,Exactly Where to Buy an Internet hosting company?,Here’s Exactly When To Book An International Flight (Based On New Data From More Than A Million Airfares),fake,Polyjuice,CountVectorizer,276,27.488273859024048
+80,Chorage claims No on transgender bathroom policy,Anchorage Votes No On Anti-Transgender Bathroom Proposition,fake,Polyjuice,CountVectorizer,276,26.510652780532837
+81,"EMPTY Will Pursue £20,000 Lawsuit for Teeth Broken in Prison","Terrorist Who Killed Lee Rigby Will Pursue £20,000 Lawsuit for Teeth Broken in Prison",fake,Polyjuice,CountVectorizer,276,36.15158486366272
+82,Six Ways to Give the Gift of Generosity to Children and Teenagers - The New Times,Six Ways to Give the Gift of Generosity to Children and Teenagers - The New York Times,fake,Polyjuice,CountVectorizer,276,27.334473848342896
+83,Felony Voting Laws Are Confusing; Activists Would Be Them Altogether Helpful,Felony Voting Laws Are Confusing; Activists Would Ditch Them Altogether,fake,Polyjuice,CountVectorizer,276,24.26037883758545
+84,Byron's letter to Powell clearly shows the Republic in how it is headed:,Barron Trump's School Signs Open Letter Demanding POTUS Enact Stricter Gun Laws,fake,Polyjuice,CountVectorizer,276,25.633050203323364
+85,Democrat Holds Slim Lead In Young By Nearly 20 Points,Democrat Holds Slim Lead In Pennsylvania District Trump Won By Nearly 20 Points,fake,Polyjuice,CountVectorizer,276,25.182383060455322
+86,"Ira Madison's third album "" Deathstar Rising "" cracked the Finnish Album Top 10 and reached position 8 in the first week of March 2011.",MTV’s Ira Madison III Calls Jeff Sessions’ Granddaughter ’Prop’ Stolen from Toys R Us - Breitbart,fake,Polyjuice,CountVectorizer,276,29.697046995162964
+87,I Was on That Fateful Flight With Prince: A Musical Drama Tells Her Story - The New York Times,I Was on That Fateful Flight With Prince: A Protégée Tells Her Story - The New York Times,fake,Polyjuice,CountVectorizer,276,29.754169940948486
+88,"Trump Crowd expected Lock Her Up, Lock Her Up On CNN.","Trump Crowd Chants Lock Her Up, Lock Her Up On CNN",fake,Polyjuice,CountVectorizer,276,26.26004385948181
+89,"At the corn maze, Kayla laughs as they try to figure out what is going on with this maze, and Monica laughs as they try to figure it out.",Civil War in the GOP: Trump Leading “Long Experiment in Populism… New Republican Party”,fake,Polyjuice,CountVectorizer,276,20.265563249588013
+90,Maybe the actors supported the artists?,"Banned in the EU, What is This Dangerous Chemical Doing to Americans?",fake,Polyjuice,CountVectorizer,276,21.100261449813843
+91,Stern Reveals The New York Years,"Sting Reveals The Weird Way He Met His Current Collaborator, Shaggy",fake,Polyjuice,CountVectorizer,276,26.636208057403564
+92,Who do you prefer to fuck with?,"What, Congressman Steve King Asks, Have Nonwhites Done for Civilization? - The New York Times",fake,Polyjuice,CountVectorizer,276,26.874658346176147
+93,That Chart Of The Day: The “Trump Rally” Is All Dow—Mind The Divergences,Chart Of The Day: The “Trump Rally” Is All Dow—Mind The Divergences,fake,Polyjuice,CountVectorizer,276,27.431408643722534
+94,EMPTY In First Look At the,Renee Zellweger Is Judy Garland In First Look At Upcoming Biopic,fake,Polyjuice,CountVectorizer,276,30.418261766433716
+95,"All We've got is a bit of a mess, and all we've got is a bit of a movie.",21 Things We’ve Learned About Hillary Clinton From Wikileaks That The MSM Won’t Share…But YOU Can!,fake,Polyjuice,CountVectorizer,276,27.464158535003662
+96,is No good explanation after all?,There’s No Good Excuse For The Racist Impact Of Michigan’s Medicaid Proposal,fake,Polyjuice,CountVectorizer,276,24.829699516296387
+97,But Leaders Not Quite Ready For A Jobs Guarantee,Democratic Leaders Not Quite Ready For A Jobs Guarantee,fake,Polyjuice,CountVectorizer,276,27.204326152801514
+98,You need to have a very good voice and few memes to make this one,How to Save the Conversation at Your Post-Election Thanksgiving Dinner,fake,Polyjuice,CountVectorizer,276,26.11802077293396
+99,"Even without the title, the clichés are very much the same and just work, with the results being",Enough With the Gefilte Fish. I’ll Have Sushi. - The New York Times,fake,Polyjuice,CountVectorizer,276,27.538109064102173

@@ -1,15 +1,15 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-import numpy as np
-import pandas as pd
-import en_core_web_md
-from random_word import RandomWords
-from nltk.corpus import wordnet
-from itertools import chain
 import random
 import warnings
 import time
+import numpy as np
+import pandas as pd
+#import en_core_web_lg
+from random_word import RandomWords
+from nltk.corpus import wordnet
+from itertools import chain
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
 # Python3 hack
@@ -59,7 +59,6 @@ class Neighbors:
                     queries, key=lambda w: word.similarity(w), reverse=True)[1:]
                 self.n[orig_word] = [(self.nlp(w.orth_)[0], word.similarity(w))
                                      for w in by_similarity[:1000]]
-                                    #  if w.lower_ != word.lower_]
         return self.n[orig_word]
 
 class Counterfactuals:
@@ -100,10 +99,11 @@ class Counterfactuals:
 
         self.prediction_fn = prediction_fn
         self.y_obs = prediction_fn(vector_to_interprete)
+        print(self.y_obs)
         if target_class == None:
             # Case of searching for the closest class (multi class)
             self.target_other = True
-            target_class = self.y_obs[0]
+            target_class = self.y_obs
         else:
             self.target_other = False
         self.target_class = target_class
@@ -149,7 +149,7 @@ class Counterfactuals:
         """
         n_ennemies_, nb_word_modified = 0, 1
         radius_ = self.first_radius
-        ennemies = []
+        ennemies = np.array([])
 
         if self.verbose == True: 
             print("Exploring...")
@@ -166,8 +166,9 @@ class Counterfactuals:
                 if radius_growing_language == 0.5 and iteration >= self.nb_word_in_text:
                     raise Exception("growing language method is not able to find closest counterfactual...")
                 nb_word_modified = min(self.nb_word_in_text, max(1, self.nb_word_in_text // 10) * iteration)
-                layer = perturb_sentence_language_model(self.obs_to_interprete, nb_word_modified, neighbors, max_sim = 0.9-radius_growing_language, \
-                    n_iter=self.n_in_layer, verbose=self.verbose)
+                layer = perturb_sentence_language_model(self.obs_to_interprete, nb_word_modified, neighbors, 
+                                                        max_sim = 0.9-radius_growing_language,
+                                                        n_iter=self.n_in_layer, verbose=self.verbose)
                 preds_ = np.array(self.prediction_fn(layer['Text'].values.tolist()))
                 similarities = np.array(layer['Similarity'].values.tolist())[preds_]
                 layer = layer['Text'].values.tolist()
@@ -190,7 +191,7 @@ class Counterfactuals:
                 preds_ = np.array(self.prediction_fn(layer))
             
             preds_ = [np.where(preds_ != self.target_class)]
-            if ennemies != []:
+            if ennemies.size > 0:
                 ennemies = np.concatenate((ennemies, np.array(layer)[preds_]), axis=None)
             else:
                 ennemies = np.array(layer)[preds_]
@@ -329,7 +330,7 @@ def perturb_sentence_language_model(text, nb_word_to_modify, neighbors=None, max
     sentences=pd.DataFrame([[text,0,1]],columns=['Text','L0','Similarity'])
     if neighbors == None:
         print("neighbors is None")
-        neighbors = Neighbors(en_core_web_md.load())
+        neighbors = Neighbors(en_core_web_lg.load())
 
     tokens = neighbors.nlp(str(text))
     pos = set(pos)

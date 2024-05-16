@@ -1,0 +1,6 @@
+,perplexity,dataset name,model,method,vectorizer
+0,3.6973564624786377,spam,rf,sedc,
+0,2.622802495956421,spam,rf,sedc,
+0,3.4240922927856445,spam,rf,sedc,_TfidfVectorizer
+0,2.3074100017547607,spam,rf,sedc,_TfidfVectorizer
+0,2.6261372566223145,spam,dnn,sedc,

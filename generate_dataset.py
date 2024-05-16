@@ -1,18 +1,15 @@
-from sklearn.datasets import fetch_20newsgroups
 from sklearn.model_selection import train_test_split
-from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.feature_extraction.text import TfidfVectorizer
 import pandas as pd
 import numpy as np
 import os
 import unidecode
 
-def preparing_dataset(x, y, dataset_name):
-    print("Preparing dataset")
-    if "newsgroup" in dataset_name:x, _, y, _ = train_test_split(x, y, test_size=0.9, random_state=1)
+def preparing_dataset(x, y, dataset_name, vectorizer):
+    """
+    Train test split the input dataset and vectorize the input dataset with the input vectorizer
+    """
+    print("Preparing dataset", dataset_name)
     x_train_vectorize, x_test_vectorize, y_train, y_test = train_test_split(x, y, test_size=0.4, random_state=1)
-    vectorizer = CountVectorizer(min_df=1)
-    # Si il y a un probleme avec le vectorizer c'est parce qu'il n'a pas les mots du jeu de test lorsqu'il fit
     vectorizer.fit(x_train_vectorize)
     x_train = vectorizer.transform(x_train_vectorize)
     x_test = vectorizer.transform(x_test_vectorize)
@@ -36,27 +33,6 @@ def generate_dataset(dataset_name):
                 X.append(line.strip())
                 y.append(l)
     
-    elif "religion" in dataset_name:
-        categories = ["talk.politics.misc","talk.religion.misc"]
-        newsgroups_train = fetch_20newsgroups(subset='train', categories=categories, shuffle=True, random_state=42)
-        X = newsgroups_train.data
-        y = newsgroups_train.target
-        # making class names shorter
-        class_names = [x.split('.')[-1] if 'misc' not in x else '.'.join(x.split('.')[-2:]) for x in newsgroups_train.target_names]
-        print("class names", class_names)
-
-    elif 'baseball' in dataset_name:
-        categories = [
-            "rec.sport.baseball",
-            "rec.sport.hockey"
-        ]
-        newsgroups_train = fetch_20newsgroups(subset='train', categories=categories, shuffle=True, random_state=42)
-        X = newsgroups_train.data
-        y = newsgroups_train.target
-        # making class names shorter
-        class_names = [x.split('.')[-1] if 'misc' not in x else '.'.join(x.split('.')[-2:]) for x in newsgroups_train.target_names]
-        print("class names", class_names)
-
     elif 'spam' in dataset_name:
         spam = pd.read_csv("./dataset/spam.csv", encoding='latin-1')
         X, y = spam['message'].to_list(), spam['label'].to_list()
@@ -70,6 +46,9 @@ def generate_dataset(dataset_name):
     return X, y, class_names
 
 def prepare_dataset(dataset="spam"):
+    """
+    Prepare the dataset from the initial datasets to get the csv files used in the experiments
+    """
     if dataset=="spam":
         sms = pd.read_csv("./dataset/spam/spam.csv", encoding='latin-1')
         sms.dropna(how="any", inplace=True, axis=1)
@@ -82,6 +61,7 @@ def prepare_dataset(dataset="spam"):
             sms.drop(['Unnamed: 0'], axis=1, inplace=True)
         except:
             print("preparing spam dataset")
+        # The following allows to balance the dataset of spam detection through oversampling
         sms['label'] = np.where((sms.label == 'ham'),0,1)
         index_spam = np.where(sms.label == 1)
         index_ham = np.where(sms.label == 0)
@@ -95,6 +75,7 @@ def prepare_dataset(dataset="spam"):
         sms = sms.sample(frac=1)
         sms.reset_index(drop=True, inplace=True)
         sms.to_csv("./dataset/spam.csv")
+
     elif dataset == "fake_news":
         fake_news = pd.read_csv("./dataset/fake_news/test.csv")
         fake_news.dropna(inplace=True)
@@ -119,20 +100,10 @@ def prepare_dataset(dataset="spam"):
         print(news_dataset)
         news_dataset.to_csv("./dataset/news.csv")
 
-def prepare_corpus(filename):
-    data = pd.read_csv(filename)
-
-    tf = TfidfVectorizer(input=data['message'].tolist(), analyzer='word',
-                        min_df = 0, stop_words = 'english', sublinear_tf=True)
-    tfidf_matrix =  tf.fit_transform(data['message'].tolist())
-    doc = 0
-    feature_names = tf.get_feature_names()
-    feature_index = tfidf_matrix[doc,:].nonzero()[1]
-    tfidf_scores = zip(feature_index, [tfidf_matrix[doc, x] for x in feature_index])
-    for w, s in [(feature_names[i], s) for (i, s) in tfidf_scores]:
-        print (w, s)
-
 def count_mean_std_in_corpus(dataset_name):
+    """
+    Measures the average length and standard deviation of the input dataset
+    """
     dataset, _, _ = generate_dataset(dataset_name)
     my_counter, all_length = [], []
     for sentence in dataset:
@@ -147,12 +118,10 @@ def count_mean_std_in_corpus(dataset_name):
     for word in my_counter:
         tot_words.append(word.lower())
     my_counter = list(set(tot_words))
-    print("nb total de mot", len(my_counter))
+    print("nb total of words", len(my_counter))
 
 if __name__ == "__main__":
-    #generate_dataset("titanic")
     #prepare_dataset("fake_news")
-    #prepare_corpus("./dataset/fake_news.csv")
     #prepare_dataset()
     count_mean_std_in_corpus("fake")
         

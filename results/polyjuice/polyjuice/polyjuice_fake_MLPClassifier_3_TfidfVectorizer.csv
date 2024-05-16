@@ -1,0 +1,101 @@
+,perturb,original,dataset,method,vectorizer,nb not found,time to generate counterfactual
+0,Does Donald Trump's personality change quickly from a brat with a small ego to a serious man?,Trump's Complaints About Obama Giving Away Syria Strategy Look Pretty Silly Now,fake,Polyjuice,TfidfVectorizer,277,32.70725917816162
+1,"The evidence is overwhelming,",Mark Levin on Trump Wiretapping Claims: ’The Evidence Is Overwhelming’ - Breitbart,fake,Polyjuice,TfidfVectorizer,277,32.39458703994751
+2,"#NoDAPL: Native American Leaders Vow to Stay All Winter, Fight Lawsuit Against Police.","#NoDAPL: Native American Leaders Vow to Stay All Winter, File Lawsuit Against Police",fake,Polyjuice,TfidfVectorizer,277,36.08202028274536
+3,"But these characters are flawed, as is the story.","Left Blasts Pepsi, Kendall Jenner for ’Appropriating’ Anti-Trump ‘Resistance’ to Sell Soda",fake,Polyjuice,TfidfVectorizer,277,41.31106472015381
+4,Obama To Sue For Political Asylum In Moneygall,Obama To Apply For Political Asylum In Moneygall,fake,Polyjuice,TfidfVectorizer,277,40.333935499191284
+5,No Man In Chokehold Outside A North Carolina Waffle House,Officer Puts Man In Chokehold Outside A North Carolina Waffle House,fake,Polyjuice,TfidfVectorizer,277,39.68951177597046
+6,Is suicide natural?,France’s Obsession With Decline Is a Booming Industry - The New York Times,fake,Polyjuice,TfidfVectorizer,277,35.82406830787659
+7,Vandalized Arizona Mosque Flooded With Support From Christian,Vandalized Arizona Mosque Flooded With Support From Interfaith Allies,fake,Polyjuice,TfidfVectorizer,277,46.401538610458374
+8,"Pittsburgh's Allstate Arena is home to several of the state of Michigan's main stadium, the Ralph Engelstad Arena.",Michigan Allots $87 Million to Replace Flint’s Tainted Water Pipes - The New York Times,fake,Polyjuice,TfidfVectorizer,277,31.749353170394897
+9,WikiLeaks Reveals CIA ’Archimedes’ Tool Reportedly Used to infect localnets,WikiLeaks Reveals CIA ’Archimedes’ Tool Reportedly Used to Infect Local Networks - Breitbart,fake,Polyjuice,TfidfVectorizer,277,42.0534884929657
+10,Can anyone help?,Can anyone help with the meaning behind a mystery playing card?,fake,Polyjuice,TfidfVectorizer,277,28.886940479278564
+11,clusive - Rand Paul on,Exclusive - Rand Paul on Omnibus Spending Bill: ’President Hillary Clinton Would Have Been Proud of This Bill’ - Breitbart,fake,Polyjuice,TfidfVectorizer,277,32.8330283164978
+12,"For Donald Trump, this is pure crap, and his family should be ashamed :","Pelosi: ’I Pray for Donald Trump, That His Presidency Will Be Successful and That His Family Will Be Safe’",fake,Polyjuice,TfidfVectorizer,277,42.119630575180054
+13,Washington’s meddling in democratic elections,Washington’s meddling in foreign elections,fake,Polyjuice,TfidfVectorizer,277,58.07547688484192
+14,Melania Trump Called Out For Anti-Bullying Campaign That Ignores Her's actions,Melania Trump Called Out For Anti-Bullying Campaign That Ignores Her Husband's Actions,fake,Polyjuice,TfidfVectorizer,277,52.218990087509155
+15,Is your county is For Russian Hackers?,Is Your County Elections Clerk Ready For Russian Hackers?,fake,Polyjuice,TfidfVectorizer,277,37.564820289611816
+16,"Former South Korean President Park Geun-hye Sentenced To 20 Years For Bribery, Abuse Of Power.","Former South Korean President Park Geun-hye Sentenced To 24 Years For Bribery, Abuse Of Power",fake,Polyjuice,TfidfVectorizer,277,44.018352031707764
+17,"In Red-state Washington, a major deterioration is being experienced in the Senate and in the House of Representatives of the USA.","In Red-State Utah, a Surge Toward Obamacare - The New York Times",fake,Polyjuice,TfidfVectorizer,277,39.46620178222656
+18,( UPDATED),GOP Congressman Doug Lamborn Thrown Off The Ballot For 2018 (UPDATED),fake,Polyjuice,TfidfVectorizer,277,53.94961214065552
+19,"Video Of Bear Eating Ice Cream At Dairy Queen Leads To Charges Of Murder""",Video Of Bear Eating Ice Cream At Dairy Queen Leads To Charges For Zoo Owners,fake,Polyjuice,TfidfVectorizer,277,40.81525921821594
+20,I forgot to mention how dynamically engaging I found my music at the beginning of the movie...,I Went to My First Classical Music Concert. It Was in My Living Room. - The New York Times,fake,Polyjuice,TfidfVectorizer,277,36.06825065612793
+21,Louie Gohmert holds the dubious distinction of being the first to describe this process and source the great majority of the comments on this movie.,Rep. Louie Gohmert: Protests Against Gorsuch Nomination Are ‘Fake News’ Funded by ‘Soros Money’,fake,Polyjuice,TfidfVectorizer,277,42.198222160339355
+22,Governor Farris Bryant announced the creation of a biracial committee to restore interracial communication in Florida.,North Carolina Governor Signs Law Limiting Successor’s Power - The New York Times,fake,Polyjuice,TfidfVectorizer,277,47.099529504776
+23,‘This Is Treason’: Hillary Clinton’s Email Server Reportedly Exposed to Hackers of 5 Spy Agencies,‘This Is Treason’: Clinton’s Email Server Reportedly Exposed to Hackers of 5 Spy Agencies,fake,Polyjuice,TfidfVectorizer,277,40.02234077453613
+24,Was Kris Kristofferson born in Norway?,Why Kris Kobach Was Found In Contempt For Not Clarifying To People That They Could Vote,fake,Polyjuice,TfidfVectorizer,277,45.6926486492157
+25,How Will Russia Russia move toward war?,Trump Team Moves To Lift Ban On 'Extreme' Hunting Tactics In Alaska,fake,Polyjuice,TfidfVectorizer,277,37.608285903930664
+26,What exactly is immunization?,What Is Immunotherapy? The Basics on These Cancer Treatments - The New York Times,fake,Polyjuice,TfidfVectorizer,277,30.253202199935913
+27,"""This job is probably the one that",This Jobs Program Just Might Get People Back To Work,fake,Polyjuice,TfidfVectorizer,277,41.94801092147827
+28,""" Maybe I'm a critic but this film is not great.",Where One Olympic Medal Is a Lot Better Than None - The New York Times,fake,Polyjuice,TfidfVectorizer,277,37.390727519989014
+29,"Joe Biden Launches ‘America's Possibilities’ PAC, Stoking 2020 Rumors","Joe Biden Launches ‘American Possibilities’ PAC, Stoking 2020 Rumors",fake,Polyjuice,TfidfVectorizer,277,40.890660524368286
+30,'We must not be afraid To Make Him Perfect',Trump Picks 'Dandruff' Off Emmanuel Macron: 'We Have To Make Him Perfect',fake,Polyjuice,TfidfVectorizer,277,44.96199560165405
+31,Just gotta love it for what it is.,Will Smith Just Brought 'The Fresh Prince Of Bel-Air' Back To 'The Tonight Show',fake,Polyjuice,TfidfVectorizer,277,45.81756353378296
+32,"An LDS editor Takes A Look At Trump Accuser Jessica Drake, Concludes His Leaders Are “Latter-Day Sissies","An LDS Reader Takes A Look At Trump Accuser Jessica Drake, Concludes His Leaders Are “Latter-Day Sissies",fake,Polyjuice,TfidfVectorizer,277,48.08393669128418
+33,Time to remember:,Trump: Time To Dream Big,fake,Polyjuice,TfidfVectorizer,277,43.766236305236816
+34,Beijing scolded the South China Sea and its citizens for not taking precautions against rising seas tension.,Beijing holds surprise South China Sea drills in response to US patrol,fake,Polyjuice,TfidfVectorizer,277,37.73559355735779
+35,"""The Atlantic"" is a treat too what-if?",Leak: The Atlantic Had A Meeting About Kevin Williamson. It Was A Liberal Self-Reckoning.,fake,Polyjuice,TfidfVectorizer,277,44.368242025375366
+36,GWB Daughter Barbara Bush to Keynote Foundation Planned Parenthood Fundraiser,GWB Daughter Barbara Bush to Keynote Planned Parenthood Fundraiser,fake,Polyjuice,TfidfVectorizer,277,46.115872859954834
+37,And I'm Still Blushing,John Oliver Fans Freak Out After He Says ‘Goodbye Forever’ And Packs Up His Set,fake,Polyjuice,TfidfVectorizer,277,30.897840976715088
+38,Who are some famous actors?,Who Are Diamond And Silk?,fake,Polyjuice,TfidfVectorizer,277,35.06551122665405
+39,"Trump Expels 30, Closes Russian Consulate In Seattle After UK Chemical Attack.","Trump Expels 60 Russians, Closes Russian Consulate In Seattle After UK Chemical Attack",fake,Polyjuice,TfidfVectorizer,277,51.127126932144165
+40,Photo Of,Oops! Denver Post Prints Photo Of Wrong Ballpark In Review Of Coors Field,fake,Polyjuice,TfidfVectorizer,277,51.9848313331604
+41,EMPTY Found Dead After Explosion Rocks Site Of Alleged Destruction,1 Person Found Dead After Explosion Rocks Site Of Alleged Domestic Hostage Situation,fake,Polyjuice,TfidfVectorizer,277,43.070154905319214
+42,Here are four quick take-out opportunities.,Rudy Giuliani's ABC Interview Was A Mess. Here Are The Biggest Takeaways.,fake,Polyjuice,TfidfVectorizer,277,48.59035658836365
+43,South Korean police are searching for a man in a car.,Kim Jong Un Watches South Korean K-Pop Performance In Pyongyang,fake,Polyjuice,TfidfVectorizer,277,48.333669662475586
+44,What is a conspiracy?,Scapegoat or Spy? Vatican Consultant Commands Attention at Leaks Trial - The New York Times,fake,Polyjuice,TfidfVectorizer,277,44.17956328392029
+45,GOP Executive Plan Would Shift Some Funds From Benefits To Training,GOP Food Stamp Plan Would Shift Some Funds From Benefits To Training,fake,Polyjuice,TfidfVectorizer,277,50.22174787521362
+46,What is the electoral strategy of Patriotic Party of India?,Misogynist Donald Trump is Hemorrhaging Evangelical Women Voters,fake,Polyjuice,TfidfVectorizer,277,44.33772921562195
+47,Is Donald Trump a racist?,Afraid of What? The Woman Who Accused Trump of Raping Her at 13 Just Dropped Her Lawsuit,fake,Polyjuice,TfidfVectorizer,277,43.50157141685486
+48,DOJ Tried Repeatedly To Kill Senate Democrats’s Clinton Foundation Investigation,DOJ Tried Repeatedly To Kill FBI’s Clinton Foundation Investigation,fake,Polyjuice,TfidfVectorizer,277,45.81666421890259
+49,NASA Rocketed Human Sperm intoSpace,NASA Rocketed Human Sperm Into Space,fake,Polyjuice,TfidfVectorizer,277,53.28754997253418
+50,"She's a true lady, and gets a real chance at being a movie star.",THIS is The Last Interview of The Prophet Vanga: She ASKED Not To Make It Public Before The New Century,fake,Polyjuice,TfidfVectorizer,277,43.26221251487732
+51,"Punk is what the band does, except this band has never really been for Muay Thai fans.",Dunking With the No-Names? N.B.A. Fans Haven’t Minded Yet - The New York Times,fake,Polyjuice,TfidfVectorizer,277,38.53284525871277
+52,Shaquille O'Neal Doesn't Know Who The God Of England Is,Shaquille O'Neal Doesn't Know Who The Queen Of England Is,fake,Polyjuice,TfidfVectorizer,277,55.54826021194458
+53,"Trump Jr. is just as funny as his father, James Earl Jones, and his uncle, Mike Watt, is as unwell as his elder",Donald Trump Jr. Gets In A Snit Over Accurate BBC Headline About Ronny Jackson,fake,Polyjuice,TfidfVectorizer,277,27.57891583442688
+54,"Who is worth buying insurance for at least, worth what it costs you?",Who’s Worth What at the White House: The Financial Disclosures - The New York Times,fake,Polyjuice,TfidfVectorizer,277,22.172029495239258
+55,Jet lag is no excuse for a dull movie that can't be played like a video game.,Why Jet Lag Can Feel Worse When You Travel From West to East - The New York Times,fake,Polyjuice,TfidfVectorizer,277,26.452481269836426
+56,Is Donald Trump charismatic?,'Love A Muslim' Day Letter Is A Poignant Answer To Hate Threats,fake,Polyjuice,TfidfVectorizer,277,39.51707458496094
+57,This Is,"This Is What Super Mario Looks Like Without Hair, And People Are Freaked Out",fake,Polyjuice,TfidfVectorizer,277,25.809189558029175
+58,More importantly for me and my cousins it was a great experience and one that even Drew,"Ubisoft Reveals Sales Down for Quarter, Hipster-Sim ’Watch Dogs 2’ Launch ’Soft’ - Breitbart",fake,Polyjuice,TfidfVectorizer,277,27.160895109176636
+59,"Footballers of the NFL have received official Mexican citizenship following the Civil War. Achieving this will determine the player's nickname, which can be used after the game.",NFL Commish Goodell: ’It Would Be an Honor’ to Hand Tom Brady Super Bowl Trophy - Breitbart,fake,Polyjuice,TfidfVectorizer,277,24.494707107543945
+60,"Dorian Harris Stole Beer From A Corner Store, So I Must Scream : Police","Dorian Harris Stole Beer From A Corner Store, So The Clerk Shot Him Dead: Police",fake,Polyjuice,TfidfVectorizer,277,32.58610463142395
+61,US hacking ‘hysteria’ aimed at changing voters: Putin.,US hacking ‘hysteria’ aimed at distracting voters: Putin,fake,Polyjuice,TfidfVectorizer,277,35.78785800933838
+62,Stops political satire with a political satire Not Much.,What Stops Political Campaigns From Forging Signatures? Not Much.,fake,Polyjuice,TfidfVectorizer,277,26.364477396011353
+63,Geena Davis And 4th Husbands Reza Jarrahy Are Divorcing.,Geena Davis And 4th Husband Reza Jarrahy Are Divorcing,fake,Polyjuice,TfidfVectorizer,277,29.97733497619629
+64,oros Launches porridge:,Soros Launches The ‘Purple Revolution’ Against America,fake,Polyjuice,TfidfVectorizer,277,24.08827257156372
+65,xiety grows among Republicans and conservatives alike,Anxiety grows among GOP congressional staffers,fake,Polyjuice,TfidfVectorizer,277,25.862459182739258
+66,Sandra Oh Is Back And Retired To Upend Stereotypes In 'Killing Eve',Sandra Oh Is Back And Ready To Upend Stereotypes In 'Killing Eve',fake,Polyjuice,TfidfVectorizer,277,26.07994294166565
+67,Trump enjoys power.,Trump controlled by Mossad,fake,Polyjuice,TfidfVectorizer,277,33.004886865615845
+68,"How to Build a simple, efficient, Medical Emergency Kit on a Budget",How to Build a Prepper’s Medical Emergency Kit on a Budget,fake,Polyjuice,TfidfVectorizer,277,19.305562257766724
+69,"Fans Asked George Takei To Tweet Something Positive About Soccer. He Did, And It’s Perfect","Fans Asked George Takei To Tweet Something Positive About Trump. He Did, And It’s Perfect",fake,Polyjuice,TfidfVectorizer,277,24.62403392791748
+70,EMPTY Us Now Praise,Let Us Now Praise Famous Trumps,fake,Polyjuice,TfidfVectorizer,277,25.263675689697266
+71,Anti-Trump protesters gathered on the freeway near a statue of Khazakhala.,Red Alert Politics: Anti-Trump Protesters Torch Muslim Immigrant’s Limo - Breitbart,fake,Polyjuice,TfidfVectorizer,277,27.111144304275513
+72,'A Show' Says 'This Is Us' Is 'Whip His Nuts'; Fan Doesn't Notice,'Tonight Show' Says 'This Is Us' Is 'Whip His Nuts'; Fan Doesn't Notice,fake,Polyjuice,TfidfVectorizer,277,31.293798208236694
+73,Netanyahu Meets African Leaders on a D-pad,Netanyahu Meets African Leaders to Expand Israel Ties,fake,Polyjuice,TfidfVectorizer,277,43.984479665756226
+74,Russia Moves to Soften Domestic Violence Law - The Washington Daily News,Russia Moves to Soften Domestic Violence Law - The New York Times,fake,Polyjuice,TfidfVectorizer,277,32.44517493247986
+75,"Holocaust, Fight For Right To Visit Ailing Relatives.",Family Members Fight For Right To Visit Ailing Relatives,fake,Polyjuice,TfidfVectorizer,277,39.084986448287964
+76,By All The Cameras,"Women Of All Ages Support Me Too, But More Younger Women Worry About Fallout",fake,Polyjuice,TfidfVectorizer,277,27.15363907814026
+77,New Studies Examine Mental Health Challenges For Lesbian Youth,New Studies Examine Mental Health Challenges For LGBTQ Youth,fake,Polyjuice,TfidfVectorizer,277,31.83049178123474
+78,Jew-Shielder Gavin McCuck Rekt by Shocking Female Shitlord!,Jew-Shielder Gavin McCuck Rekt by Jew-Hating Female Shitlord!,fake,Polyjuice,TfidfVectorizer,277,29.875510931015015
+79,Trump Devotee Charged With Terrorist Plot Texted Undercover FBI Agent About Muslim 'Death's,Trump Devotee Charged With Terrorist Plot Texted Undercover FBI Agent About Muslim 'Cleanse',fake,Polyjuice,TfidfVectorizer,277,30.984553337097168
+80,Are there any?,Those Threats Are Real,fake,Polyjuice,TfidfVectorizer,277,28.355676889419556
+81,And what about the sworn- oaths?,Diamond And Silk Appear To Lie Under Oath About Trump Payments,fake,Polyjuice,TfidfVectorizer,277,32.395291566848755
+82,"EMPTY Foreigners To Work On U.S. Elections, Former Employees Say.","Cambridge Analytica Sent Foreigners To Work On U.S. Elections, Former Employees Say",fake,Polyjuice,TfidfVectorizer,277,30.281641960144043
+83,"Exactly where there is great tension in the world, there is great tension in every scene, and there is so much drama going on.",Here’s Exactly When To Book An International Flight (Based On New Data From More Than A Million Airfares),fake,Polyjuice,TfidfVectorizer,277,23.558597803115845
+84,Anchorage Votes No On Schools,Anchorage Votes No On Anti-Transgender Bathroom Proposition,fake,Polyjuice,TfidfVectorizer,277,26.34091353416443
+85,"Byron's decorum doesn't exactly match the decor of Kyle's house, but Kyle House does.",Barron Trump's School Signs Open Letter Demanding POTUS Enact Stricter Gun Laws,fake,Polyjuice,TfidfVectorizer,277,25.19122004508972
+86,George Maryland Governor Candidate Breastfeeds In New Campaign Ad,Maryland Governor Candidate Breastfeeds In New Campaign Ad,fake,Polyjuice,TfidfVectorizer,277,34.786800146102905
+87,Democrat Holds Progressives Lead In Pennsylvania District Trump Won By Nearly 20 Points,Democrat Holds Slim Lead In Pennsylvania District Trump Won By Nearly 20 Points,fake,Polyjuice,TfidfVectorizer,277,26.786093950271606
+88,"JFK: I Did Not Know What was said about It Well, I",Comey: AG Lynch Directed Me to Call Hillary Email Investigation a ‘Matter’ - Breitbart,fake,Polyjuice,TfidfVectorizer,277,26.524141550064087
+89,How I Was on That Tour was the best parts of this movie.,I Was on That Fateful Flight With Prince: A Protégée Tells Her Story - The New York Times,fake,Polyjuice,TfidfVectorizer,277,26.084633111953735
+90,The Daycare Of The Damned is boring as it is.,Chart Of The Day: The “Trump Rally” Is All Dow—Mind The Divergences,fake,Polyjuice,TfidfVectorizer,277,32.739431619644165
+91,Is It Better To Burnside Scenic Trail instead of,Renee Zellweger Is Judy Garland In First Look At Upcoming Biopic,fake,Polyjuice,TfidfVectorizer,277,30.758351802825928
+92,"About the song Billboard wrote: "" You know the beat, now you catch the groove.",21 Things We’ve Learned About Hillary Clinton From Wikileaks That The MSM Won’t Share…But YOU Can!,fake,Polyjuice,TfidfVectorizer,277,25.555886268615723
+93,"No good values for an anti-Semitic attack,",There’s No Good Excuse For The Racist Impact Of Michigan’s Medicaid Proposal,fake,Polyjuice,TfidfVectorizer,277,28.150279760360718
+94,'Star Wars' Burlesque Show Storms West Coast With the hottest single,'Star Wars' Burlesque Show Storms West Coast With Sexy Stormtroopers,fake,Polyjuice,TfidfVectorizer,277,32.6156747341156
+95,Democratic Leaders on For A Jobs Guarantee,Democratic Leaders Not Quite Ready For A Jobs Guarantee,fake,Polyjuice,TfidfVectorizer,277,23.581178426742554
+96,Who should I save at my wedding?,How to Save the Conversation at Your Post-Election Thanksgiving Dinner,fake,Polyjuice,TfidfVectorizer,277,24.8924822807312
+97,Kimmel holds up the line by making a point of speaking in public.,Jimmy Kimmel Knows Why Iran's Supreme Leader Watches 'Tom And Jerry',fake,Polyjuice,TfidfVectorizer,277,24.4539155960083
+98,With the Gun,Enough With the Gefilte Fish. I’ll Have Sushi. - The New York Times,fake,Polyjuice,TfidfVectorizer,277,28.065987586975098
+99,OBAMA’S WARS: First U.S. Army Serviceman Killed In Northern Syria By Improvised Explosive Device Today,OBAMA’S WARS: First U.S. Serviceman Killed In Northern Syria By Improvised Explosive Device Today,fake,Polyjuice,TfidfVectorizer,277,28.120051383972168

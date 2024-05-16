@@ -1,0 +1,101 @@
+,perturb,original,dataset,method,vectorizer,nb not found,time to generate counterfactual
+0,Justin's cat gets worse care than Donald's because Donald's cat has been sick for a longer time.,Trump's Complaints About Obama Giving Away Syria Strategy Look Pretty Silly Now,fake,Polyjuice,CountVectorizer,324,28.935503721237183
+1,Mark Levin on Trump Wiretapping Claims: ’The Evidence Is Overwhelming’ - John,Mark Levin on Trump Wiretapping Claims: ’The Evidence Is Overwhelming’ - Breitbart,fake,Polyjuice,CountVectorizer,324,28.661958932876587
+2,"EMPTY 'This Is America' Video, Explained","Childish Gambino's 'This Is America' Video, Explained",fake,Polyjuice,CountVectorizer,324,31.31502366065979
+3,"#NoDAPL: Native American Leaders Vow to Stay Active, Make Lawfare, Rally America","#NoDAPL: Native American Leaders Vow to Stay All Winter, File Lawsuit Against Police",fake,Polyjuice,CountVectorizer,324,32.06980228424072
+4,"Denounces political enemies, criticizes vile opinions ; instantly dislikes labels.","Left Blasts Pepsi, Kendall Jenner for ’Appropriating’ Anti-Trump ‘Resistance’ to Sell Soda",fake,Polyjuice,CountVectorizer,324,25.909697771072388
+5,What is a Warrant Officer?,"Dakota Excess Pipeline? Standing Rock Protectors Strip-Searched, Jailed for Days on Minor Charges – Video, Links, and Commentary",fake,Polyjuice,CountVectorizer,324,31.085768461227417
+6,"Oliver North, Key","Oliver North, Key Player In Iran-Contra Scandal, Named NRA President",fake,Polyjuice,CountVectorizer,324,28.33108687400818
+7,What to do:,California Today: What to Look for on Election Day - The New York Times,fake,Polyjuice,CountVectorizer,324,24.28494906425476
+8,Obama To Apply For Political Asylum In Virginia,Obama To Apply For Political Asylum In Moneygall,fake,Polyjuice,CountVectorizer,324,28.92817234992981
+9,"Regardless of your political leanings, you probably shouldn't bother with this one.","Regardless of ‘Brexit’ Vote, Experts Say, E.U. Must Rethink Status Quo - The New York Times",fake,Polyjuice,CountVectorizer,324,24.71539568901062
+10,Is Technology Gaining Is a Booming Company a paradox?,France’s Obsession With Decline Is a Booming Industry - The New York Times,fake,Polyjuice,CountVectorizer,324,24.340734243392944
+11,Donald Trump or Hillary Clinton?,Jake Tapper Hits Back At Trump: He's Nastier To Me And Don Lemon Than He Is To Putin,fake,Polyjuice,CountVectorizer,324,29.234500646591187
+12,"Spoof Craigslist Ad Seeks Lawyer For Hillary Trump, And It's Hilarious","Spoof Craigslist Ad Seeks Lawyer For Donald Trump, And It's Hilarious",fake,Polyjuice,CountVectorizer,324,25.55259108543396
+13,Can anyone help pass the meaning behind a mystery playing card?,Can anyone help with the meaning behind a mystery playing card?,fake,Polyjuice,CountVectorizer,324,19.72894024848938
+14,"for Donald Trump, I Pray for Hillary Clinton.","Pelosi: ’I Pray for Donald Trump, That His Presidency Will Be Successful and That His Family Will Be Safe’",fake,Polyjuice,CountVectorizer,324,25.166155338287354
+15,Washington’s meddling in foreign policy,Washington’s meddling in foreign elections,fake,Polyjuice,CountVectorizer,324,31.86031436920166
+16,We Can Do It!.,GOP: We Will Be United Against Any Supreme Court Nominee Of Hillary Clinton (VIDEO),fake,Polyjuice,CountVectorizer,324,27.47740387916565
+17,How should I think about corporate America?,How Think Tanks Amplify Corporate America’s Influence - The New York Times,fake,Polyjuice,CountVectorizer,324,22.158934831619263
+18,Did the agency put in an impact on the criminal complaint?,"Trump Team Didn’t Put Nominees to ‘Sex, Drugs and Rock ’n’ Roll’ Test - The New York Times",fake,Polyjuice,CountVectorizer,324,24.28674554824829
+19,"Presidents,","4 Presidents, 4 First Ladies Pose For Photo At Barbara Bush Funeral",fake,Polyjuice,CountVectorizer,324,24.638463258743286
+20,is most likely the soldier is killed by the enemy,General is most senior Army officer to kill self,fake,Polyjuice,CountVectorizer,324,26.974950790405273
+21,7 Foods That Will Naturally Repulsive,7 Foods That Will Naturally Cleanse Your Liver,fake,Polyjuice,CountVectorizer,324,34.86844277381897
+22,The movie couldn't sustain the movie any better.,Freedom Rider: Dump the Democrats for good,fake,Polyjuice,CountVectorizer,324,29.842737197875977
+23,"Louie Gohmert gives a good performance, but nothing stirring.",Rep. Louie Gohmert: Protests Against Gorsuch Nomination Are ‘Fake News’ Funded by ‘Soros Money’,fake,Polyjuice,CountVectorizer,324,25.39211130142212
+24,"Governor Jim McGreevey has called the governor "" a success "" and the Virgin Islands "" is "" a clear path to growth. """,North Carolina Governor Signs Law Limiting Successor’s Power - The New York Times,fake,Polyjuice,CountVectorizer,324,24.49491286277771
+25,"This is not journalism, or any other such pro-life concern, pure garbage.",‘This Is Treason’: Clinton’s Email Server Reportedly Exposed to Hackers of 5 Spy Agencies,fake,Polyjuice,CountVectorizer,324,26.89838981628418
+26,What is immunisation?,What Is Immunotherapy? The Basics on These Cancer Treatments - The New York Times,fake,Polyjuice,CountVectorizer,324,19.557464599609375
+27,This Jobs Program Just Might Get Us Some People Back To Work,This Jobs Program Just Might Get People Back To Work,fake,Polyjuice,CountVectorizer,324,24.308147430419922
+28,What is a lot better than nothing?,Where One Olympic Medal Is a Lot Better Than None - The New York Times,fake,Polyjuice,CountVectorizer,324,23.69690251350403
+29,"What does a ""major event"" mean nowadays?",So Did A Major Negan Twist Slyly Happen On 'Walking Dead'?,fake,Polyjuice,CountVectorizer,324,28.046229362487793
+30,"Joe Biden Launches ‘American Possibilities’ PAC, Stoking UP 2020 Rumors","Joe Biden Launches ‘American Possibilities’ PAC, Stoking 2020 Rumors",fake,Polyjuice,CountVectorizer,324,25.288106203079224
+31,There's Finally A Legitimate Alternative,There's Finally A Legitimate Alternative To Payday Lending,fake,Polyjuice,CountVectorizer,324,22.539238929748535
+32,"An LDS Reader Takes A Look At Hillary Clinton's, Concludes His Leaders Are “Latter-Day Sissies","An LDS Reader Takes A Look At Trump Accuser Jessica Drake, Concludes His Leaders Are “Latter-Day Sissies",fake,Polyjuice,CountVectorizer,324,32.9525101184845
+33,"John Kelly said: "" I think there is no scenario in which",I.O.C. President Says Russian Federations Could Be Barred - The New York Times,fake,Polyjuice,CountVectorizer,324,26.71506118774414
+34,"Beijing also conducted joint drills with South China Sea, at an annual ceremony.",Beijing holds surprise South China Sea drills in response to US patrol,fake,Polyjuice,CountVectorizer,324,28.76557493209839
+35,Whats to like about this movie:,To Wear Makeup or Not to Wear Makeup? - The New York Times,fake,Polyjuice,CountVectorizer,324,22.202680110931396
+36,Think of a movie where the hero gets to choose between a good and a bad apple and the bad guy gets the better of both. More,"People Think Kanye's New Yeezy Shoes Look Like Legos, Gummy Sharks And More",fake,Polyjuice,CountVectorizer,324,34.12058472633362
+37,Donald Trump and I continue to Fly,Corey Lewandowski Continues to Be Paid by Donald Trump’s Campaign - The New York Times,fake,Polyjuice,CountVectorizer,324,23.599186182022095
+38,'SNL' Host Chadwick Boseman Appears On Black Jeopardy As 'Election','SNL' Host Chadwick Boseman Appears On Black Jeopardy As T'Challa,fake,Polyjuice,CountVectorizer,324,32.12963032722473
+39,Who is considered a Government or Thugocracy?,Representative Government or Thugocracy?,fake,Polyjuice,CountVectorizer,324,18.521177291870117
+40,How does trust work?,Afraid of What? The Woman Who Accused Trump of Raping Her at 13 Just Dropped Her Lawsuit,fake,Polyjuice,CountVectorizer,324,27.196261405944824
+41,She is the last straw barn on the line between Market square and Hallaton.,THIS is The Last Interview of The Prophet Vanga: She ASKED Not To Make It Public Before The New Century,fake,Polyjuice,CountVectorizer,324,24.48786163330078
+42,"Watching the movie led me to my decision, not realizing that I would not like watching the adult version, nor was I going to like it twice as much.",Dunking With the No-Names? N.B.A. Fans Haven’t Minded Yet - The New York Times,fake,Polyjuice,CountVectorizer,324,27.80449652671814
+43,the Report: Huma Abedin’s Emails On Weiner’s Laptop Were In a File Marked “Life Insurance”,Report: Huma Abedin’s Emails On Weiner’s Laptop Were In a File Marked “Life Insurance”,fake,Polyjuice,CountVectorizer,324,33.71200394630432
+44,"lando, Disney, Donald Trump: Your Song is Sings ""","Orlando, Disney, Donald Trump: Your Wednesday Evening Briefing - The New York Times",fake,Polyjuice,CountVectorizer,324,27.260435342788696
+45,A perfect watch without a doubt!,The Perfect Watchdog For The Trump Era Is A Journalist In West Virginia,fake,Polyjuice,CountVectorizer,324,31.0476713180542
+46,EMPTY Worth What at the White House: The financial crisis of 2008 EMPTY,Who’s Worth What at the White House: The Financial Disclosures - The New York Times,fake,Polyjuice,CountVectorizer,324,18.487589120864868
+47,WikiLeaks: Is Trump a misogynist?,WikiLeaks: Obama Is A Saudi Agent,fake,Polyjuice,CountVectorizer,324,23.930342197418213
+48,Not NASA Footage Films UFO Flying Past,New NASA Footage Films UFO Flying Past,fake,Polyjuice,CountVectorizer,324,25.435572862625122
+49,Edward J. McKenna was a professional baseball player who played for the 1884 Union Association of the Washington Nationals in 32 matches.,"Daniel J. Berrigan, Defiant Priest Who Preached Pacifism, Dies at 94 - The New York Times",fake,Polyjuice,CountVectorizer,324,27.16868543624878
+50,"If the NFL did not end this practice before the 2015 season, it would have been a major sport for at least a decade, long before the current format was implemented.",NFL Commish Goodell: ’It Would Be an Honor’ to Hand Tom Brady Super Bowl Trophy - Breitbart,fake,Polyjuice,CountVectorizer,324,28.71463394165039
+51,Taxpayers Foot $1M Bill to Clean Up Dakota Pipeline EMPTY,Taxpayers Foot $1M Bill to Clean Up Dakota Pipeline Protest Area - Breitbart,fake,Polyjuice,CountVectorizer,324,30.16365098953247
+52,political hacking ‘hysteria’ aimed at distracting voters: Putin,US hacking ‘hysteria’ aimed at distracting voters: Putin,fake,Polyjuice,CountVectorizer,324,31.588822603225708
+53,Donald Trump’s doves!,Trump’s Weary Defenders Face Fresh Worries - The New York Times,fake,Polyjuice,CountVectorizer,324,24.08316922187805
+54,What Stops Political Candidates?,What Stops Political Campaigns From Forging Signatures? Not Much.,fake,Polyjuice,CountVectorizer,324,20.137933254241943
+55,Plane carrying Pence skids off a runway at the airport,Plane carrying Pence skids off runway at LaGuardia Airport,fake,Polyjuice,CountVectorizer,324,27.419906616210938
+56,Anxiety grows among congressional staffers,Anxiety grows among GOP congressional staffers,fake,Polyjuice,CountVectorizer,324,31.006500482559204
+57,David Brock is not funny.,"Hillary “attack dog” David Brock plotting with Soros, Steyer, Sussman to “kick Trump’s ass”",fake,Polyjuice,CountVectorizer,324,28.531728744506836
+58,Trump controlled by the US,Trump controlled by Mossad,fake,Polyjuice,CountVectorizer,324,32.98409080505371
+59,"No Kegs, No Liquor: College Crackdown Targets Drinking and Sexual Assault - New York Post","No Kegs, No Liquor: College Crackdown Targets Drinking and Sexual Assault - The New York Times",fake,Polyjuice,CountVectorizer,324,30.4114727973938
+60,How do I build a medical emergency kit?,How to Build a Prepper’s Medical Emergency Kit on a Budget,fake,Polyjuice,CountVectorizer,324,23.176196813583374
+61,Donald Trump or Hillary Clinton?,Joe Scarborough: Trump's Legal Strategy Is Like 'A Monkey Throwing Poo Against The Wall',fake,Polyjuice,CountVectorizer,324,27.19451403617859
+62,"Charlie Rose told him: "" I need your support.","Christiane Amanpour Heading Up New PBS Show, Replacing Charlie Rose",fake,Polyjuice,CountVectorizer,324,29.138566732406616
+63,"In Hollywood, the ups and downs are so characteristic of the way young people think and behave in the entertainment industry.",Lupita Nyong'o Wants To Fill The 'Gaping Hole Of Representation' In Hollywood,fake,Polyjuice,CountVectorizer,324,31.29855990409851
+64,Chart Of The Day: vs The Big Rigs—-Class 8 Truck Sales Down 46% Since Peak,Chart Of The Day: Mind The Big Rigs—-Class 8 Truck Sales Down 46% Since Peak,fake,Polyjuice,CountVectorizer,324,28.287218809127808
+65,Who are the best?,US Secret Service Struggles To Find Recruits Who Haven’t Used Adderall,fake,Polyjuice,CountVectorizer,324,29.87182879447937
+66,Pictorial Galleries in New York City have long been limited by the international presence of America in the East Asia and the Muslim world.,Queer Aussie Men Strip Down For Intimate Indie Magazine Pictorial,fake,Polyjuice,CountVectorizer,324,30.451611280441284
+67,Jew-Shielder Gavin McCuck Rekt by Jew-Ant Female Shitlord!,Jew-Shielder Gavin McCuck Rekt by Jew-Hating Female Shitlord!,fake,Polyjuice,CountVectorizer,324,35.446974992752075
+68,Diamond And Silk Appear To Lie Under Oath About US Payments.,Diamond And Silk Appear To Lie Under Oath About Trump Payments,fake,Polyjuice,CountVectorizer,324,25.573166847229004
+69,"Cambridge Analytica Sent Foreigners To Work On US Election, Former Employees Say.","Cambridge Analytica Sent Foreigners To Work On U.S. Elections, Former Employees Say",fake,Polyjuice,CountVectorizer,324,30.68821620941162
+70,In what year did Louis die?,UK Involvement In US’ Secret Drone War Revealed,fake,Polyjuice,CountVectorizer,324,29.77261781692505
+71,Laws that affect privacy and democratic rights are democratic and allow citizens to voice their own voice.,Felony Voting Laws Are Confusing; Activists Would Ditch Them Altogether,fake,Polyjuice,CountVectorizer,324,25.723307132720947
+72,"Secret Service: AG Lynch Secret Service is led by William J. Galvin,",Comey: AG Lynch Directed Me to Call Hillary Email Investigation a ‘Matter’ - Breitbart,fake,Polyjuice,CountVectorizer,324,27.875577449798584
+73,"Ira Madison does a pitiful job bringing up generations of children, and Joel especially fails in bringing up the kids' generation.",MTV’s Ira Madison III Calls Jeff Sessions’ Granddaughter ’Prop’ Stolen from Toys R Us - Breitbart,fake,Polyjuice,CountVectorizer,324,26.083638668060303
+74,"New is the 206th episode of the ninth season of the American Broadcasting Company of the serial drama - TV series "" Lost "" and 117th episode overall.",Civil War in the GOP: Trump Leading “Long Experiment in Populism… New Republican Party”,fake,Polyjuice,CountVectorizer,324,23.774422883987427
+75,"Banned in the EU, What is This radioactive Chemical Doing to Americans?","Banned in the EU, What is This Dangerous Chemical Doing to Americans?",fake,Polyjuice,CountVectorizer,324,24.516133546829224
+76,I enjoyed what I saw.,O.J. Simpson Dismisses Colin Kaepernick: 'I Would Always Stand Up For The Flag',fake,Polyjuice,CountVectorizer,324,33.30912470817566
+77,The Legendary Cristiano Ronaldo Scores A Legendary 'Bicycle Kick' by Goal,The Legendary Cristiano Ronaldo Scores A Legendary 'Bicycle Kick' Goal,fake,Polyjuice,CountVectorizer,324,17.045117378234863
+78,What does Steve King think of non-whites?,"What, Congressman Steve King Asks, Have Nonwhites Done for Civilization? - The New York Times",fake,Polyjuice,CountVectorizer,324,27.95125937461853
+79,The only good thing I can say about this movie is that it ended.,21 Things We’ve Learned About Hillary Clinton From Wikileaks That The MSM Won’t Share…But YOU Can!,fake,Polyjuice,CountVectorizer,324,20.46142268180847
+80,Is Moody's an asshole?,"Bridgewater, World’s Biggest Hedge Fund, Is Said to Be Slowing Hiring - The New York Times",fake,Polyjuice,CountVectorizer,324,32.03249478340149
+81,Hybrid Wars 8. Strategies Against the Expansion of (1B),Hybrid Wars 8. Strategies Against Africa (1B),fake,Polyjuice,CountVectorizer,324,30.111130237579346
+82,What is to hymn in Korean?,How to Save the Conversation at Your Post-Election Thanksgiving Dinner,fake,Polyjuice,CountVectorizer,324,23.18184995651245
+83,Man Injured in Central Park Explosion -,Man Injured in Central Park Explosion - The New York Times,fake,Polyjuice,CountVectorizer,324,25.594690322875977
+84,Which country besides Brazil did the Spanish regain cities from in 1625?,Townhall: ’Why the MSM Is Ignoring Trump’s Sex Trafficking Busts’ - Breitbart,fake,Polyjuice,CountVectorizer,324,25.383574724197388
+85,"Democrats Urge Obama to Pardon 750,000 Illegal Immigrants Before Trump Takes His Wing","Democrats Urge Obama to Pardon 750,000 Illegal Immigrants Before Trump Takes Power",fake,Polyjuice,CountVectorizer,324,28.57915425300598
+86,How to cure tympanish flu?,China Tries to Censor AI Victory Over Go Champion - Breitbart,fake,Polyjuice,CountVectorizer,324,25.57475209236145
+87,What's Like to be Applied for a Job in Donald Trump’s White House?,What It’s Like to Apply for a Job in Donald Trump’s White House - The New York Times,fake,Polyjuice,CountVectorizer,324,25.042739391326904
+88,Not Suspends Silver Eagle Production – 2008 Redux?,Mint Suspends Silver Eagle Production – 2008 Redux?,fake,Polyjuice,CountVectorizer,324,23.118176460266113
+89,modern history of,The Modern History of Rigged US Elections,fake,Polyjuice,CountVectorizer,324,27.094593048095703
+90,"MILO at Dartmouth College on Donald Trump, real men, and political truth.","MILO at Dartmouth College on Donald Trump, real men, and political correctness",fake,Polyjuice,CountVectorizer,324,27.998703479766846
+91,His condition deteriorated into a serious condition and reached epidemic in several countries.,"Prince Died Without a Will, According to Court Documents Filed by His Sister - The New York Times",fake,Polyjuice,CountVectorizer,324,38.89511227607727
+92,No. 16 Virginia Wade defeated No. 1 Army in 1940.,No. 16 UMBC Defeats No. 1 Virginia In Biggest Upset In Men's NCAA Tournament History,fake,Polyjuice,CountVectorizer,324,25.310134887695312
+93,What does Flight attendants do?,What Flight Attendants Really Wish You'd Do On Your Next Flight,fake,Polyjuice,CountVectorizer,324,25.026653289794922
+94,The Daily Traditionalist: Speaking From Independence,The Daily Traditionalist: Speaking of Independence,fake,Polyjuice,CountVectorizer,324,25.02271056175232
+95,Snow reports from around the United States and Northland (Duluth) through 9 a.m. Saturday.,Snow reports from around the Northland (Duluth) through 9 a.m. Saturday,fake,Polyjuice,CountVectorizer,324,28.240966796875
+96,EMPTY Re-Enact Jesus' crucifixion,Christian Devotees Around The World Re-Enact Jesus' Crucifixion,fake,Polyjuice,CountVectorizer,324,28.135323762893677
+97,Conservative Democrat Dan Lipinski Survives Primary Challenge From the Establishment,Conservative Democrat Dan Lipinski Survives Primary Challenge From The Left,fake,Polyjuice,CountVectorizer,324,29.08844566345215
+98,Did Trump actually win the election? nothing in common?,John Oliver: Trump And Giuliani Have Something In Common And It's Gross,fake,Polyjuice,CountVectorizer,324,31.127045392990112
+99,Donald Trump or Hillary Clinton?,Stephen Colbert’s Donald Trump-Inspired Artwork Is The Stuff Of Nightmares,fake,Polyjuice,CountVectorizer,324,25.615909337997437
